@@ -1,0 +1,4 @@
+#content li + li::first-letter {
+  font-size: 5rem;
+  background-color: red;
+}
